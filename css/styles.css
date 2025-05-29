@@ -463,10 +463,10 @@ body {
   gap: 16px;
 }
 .footer-socmedia-item {
-  border-radius: 50%;
 }
 
 .footer-social-link {
+  border-radius: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
