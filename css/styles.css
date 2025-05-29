@@ -316,11 +316,13 @@ body {
   display: flex;
   padding: 0px 16px 0px 16px;
   gap: 24px;
+  justify-content: center;
 }
 .team-member-social-item {
 }
 
 .social-link {
+  border-radius: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
